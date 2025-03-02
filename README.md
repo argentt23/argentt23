@@ -1,3 +1,3 @@
 - Hi, I’m Argent
 - I’m interested in Computer Programming
-- I’m currently learning Python and pwn.
+- I’m currently learning Python, PAWN and HTML
